@@ -35,4 +35,4 @@ Aucun framework et aucune bibliothèque tierce n'est autorisé.
 
 #### Livrable
 
-Vous devrez fournir l'ensemble du code source. Dans cet exercice, la manière est plus importante que le résultat visuel, ainsi il n'est pas demandé de réaliser une quelconque interface.
+Vous devrez fournir l'ensemble du code source sur GitHub. Dans cet exercice, la manière est plus importante que le résultat visuel, ainsi il n'est pas demandé de réaliser une quelconque interface.

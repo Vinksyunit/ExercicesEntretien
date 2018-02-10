@@ -15,4 +15,5 @@ Vous devrez développer en **PHP 7+**, ne pas utiliser de base de données. Vous
 
 #### Livrable
 
+Vous devrez fournir l'ensemble du code source sur GitHub.
 L'application sera testée sur une instance *Heroku*, si nécessaire veuillez fournir la documentation afin de mettre en place celle-ci. 
