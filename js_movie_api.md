@@ -10,7 +10,7 @@ En utilisant l'API Rest de [The Movie DB](https://developers.themoviedb.org/3), 
 
 #### Outils disponibles
 
-Vous devrez développer en **Javascript (ES6) ou en Typescript**. Vous êtes complêtement libre visuellement d'utiliser ce que vous souhaitez (Bootstrap, Foundation ou autre). Vous pouvez utiliser les framework suivant si vous le souhaitez : *JQuery*, *VueJS*, *React*, *Angular*, *Backbone.js**. 
+Vous devrez développer en **Javascript (ES6) ou en Typescript**. Vous êtes complêtement libre visuellement d'utiliser ce que vous souhaitez (Bootstrap, Foundation ou autre). Vous pouvez utiliser les framework suivant si vous le souhaitez : *JQuery*, *VueJS*, *React*, *Angular*, *Backbone.js*. 
 
 #### Livrable
 
