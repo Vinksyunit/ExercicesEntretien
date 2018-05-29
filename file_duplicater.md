@@ -1,4 +1,4 @@
-### 3 - Conception d'un système de réplication de fichiers.
+# 3 - Conception d'un système de réplication de fichiers.
 
 #### Temps estimé
 

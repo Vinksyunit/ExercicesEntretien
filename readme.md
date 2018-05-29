@@ -28,3 +28,11 @@ Vous avez des serveurs en France et en Allemagne qui partagent le même système
 Il s'agit d'un exercice visant à valider la capacité d'un candidat à concevoir une solution à un problème complexe en utilisant la programmation objet.
 
 [Lien et énoncé complet](file_duplicater.md)
+
+### 4 - Epreuve PHP/JS mixte créative
+
+Vous devrez designer et développer une petite application type "Allocine" ou "iMDB" pour rechercher des films. vous développerez en PHP et JS et n'utiliserez pas de base de données. L'objectif est d'être créatif.
+
+Il s'agit d'un exercice visant à valider la capacité d'un candidat (Junior) à être autonome, créatif et à concevoir en prenant en compte des notions d'UI/UX sur un projet Web.
+
+[Lien et énoncé complet](movies_library.md)

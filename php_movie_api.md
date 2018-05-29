@@ -1,4 +1,4 @@
-### 2 - Utilisation d'une API Rest (Back PHP)
+# 2 - Utilisation d'une API Rest (Back PHP)
 
 #### Temps estimé
 

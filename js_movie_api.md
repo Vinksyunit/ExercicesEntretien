@@ -1,4 +1,4 @@
-### 1 - Utilisation d'une API Rest (Front)
+# 1 - Utilisation d'une API Rest (Front)
 
 #### Temps estimé
 
