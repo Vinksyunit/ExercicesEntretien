@@ -12,7 +12,7 @@ Vous devrez designer et développer une petite application type "Allocine" ou "i
 
 Vous devrez fournir l'ensemble du code source.
 Vous devrez développer en **PHP 7+** et **JS**, ne pas utiliser de base de données. Vous *pouvez* utiliser les frameworks suivants : *Laravel*, *Symfony*, *VueJS*, *React*, *Angular*.
-N'hésitez pas à utiliser des outils comme *Material Design*, *Bootstrap*, *Bulma* pour vous faire gagner du temps. 
+N'hésitez pas à utiliser des outils comme *[Material Design](https://material.io/)*, *[Bootstrap](https://getbootstrap.com)*, *[Bulma](https://bulma.io/)*, *[Foundation](https://foundation.zurb.com/)* pour vous faire gagner du temps.
 
 #### Livrable
 
