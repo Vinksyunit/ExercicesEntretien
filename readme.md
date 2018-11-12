@@ -36,3 +36,11 @@ Vous devrez designer et développer une petite application type "Allocine" ou "i
 Il s'agit d'un exercice visant à valider la capacité d'un candidat (Junior) à être autonome, créatif et à concevoir en prenant en compte des notions d'UI/UX sur un projet Web.
 
 [Lien et énoncé complet](movies_library.md)
+
+### 5 - Application Allo Vegan (mobile hybride web)
+
+Il manque d'une bonne application pour vegans afin de trouver les bons restaurant autour de chez soi. Vous allez devoir la construire (le début !).
+
+Il s'agit d'un exercice visant à valider la capacité d'un candidat à être autonome, créatif et à concevoir en prenant en compte des notions d'UI/UX sur un projet destiné aux mobiles.
+
+[Lien et énoncé complet](5_allo_vegan/readme.md)
