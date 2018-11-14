@@ -1,4 +1,4 @@
-# QCM Dev Ops
+# Questionnaire Dev Ops
 
 Document réalisé par *Vincent Demonchy* pour la société *Kizeo*.
 
@@ -54,3 +54,20 @@ FROM ubuntu:18.04
 
 ### 2 - Décrivez-moi le fichier `docker-composer.yml` représentant une stack PHP (web) plutôt complète.
 
+<div style="page-break-after: always;"></div>
+
+## Administration système
+
+Je me trouve dans un dossier contenant des centaines de fichiers nommés ainsi `YYYY-MM-DD_hh:ii.log`. Je suis sur une machine Debian 9.
+
+### 1 - Comment renvoyer l'ensemble des fichiers effectués le 9 Novembre 2017 ?
+
+### 2 - Comment trouver les fichiers contenant à l'intérieur le texte `211.113.64.32` ?
+
+Pour les questions suivantes, je suis sur une machine Linux quelconque (par exemple Debian).
+
+### 3 - Comment vérifier l'espace restant sur les partitions ?
+
+### 4 - Comment créer un fichier vide ?
+
+### 5 - Comment poser une clé SSH sur un autre serveur ?
