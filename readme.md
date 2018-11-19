@@ -44,3 +44,11 @@ Il manque d'une bonne application pour vegans afin de trouver les bons restauran
 Il s'agit d'un exercice visant à valider la capacité d'un candidat à être autonome, créatif et à concevoir en prenant en compte des notions d'UI/UX sur un projet destiné aux mobiles.
 
 [Lien et énoncé complet](5_allo_vegan/readme.md)
+
+### 6 - Site web Allo Vegan (React ou Vue)
+
+Après l'application mobile, voici le site web !
+
+Il s'agit d'un exercice visant à valider la capacité d'un candidat à être autonome, créatif et à concevoir en prenant en compte des notions d'UI/UX sur un projet web avec VueJS ou React.
+
+[Lien et énoncé complet](6_allo_vegan/readme.md)
