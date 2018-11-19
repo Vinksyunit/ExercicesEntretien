@@ -22,7 +22,7 @@ Vous devrez développer en **Javascript (ES6) ou en Typescript**.
 
 Vous êtes complêtement libre visuellement d'utiliser ce que vous souhaitez (Bootstrap, Foundation ou autre). 
 
-Vous devez d'utiliser soit **Vue.js** soit **React**. 
+Vous devrez d'utiliser soit **Vue.js** soit **React**. 
 
 #### Livrable
 
