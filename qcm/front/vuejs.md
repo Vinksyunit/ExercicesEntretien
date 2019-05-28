@@ -18,4 +18,4 @@ A quoi sert `Vue.set()` (ou `this.$set()`) ?
 
 ## Question 5
 
-Quelles sont les changements de VueJS 3 annoncés en Novembre 2018 par Evan You ?
+Quels sont les changements de VueJS 3 annoncés en Novembre 2018 par Evan You ?
