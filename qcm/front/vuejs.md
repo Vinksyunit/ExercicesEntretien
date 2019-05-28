@@ -1,11 +1,21 @@
 # Questionnaire VueJS
 
-## 1 - Quelles sont les différences entre `props`, et `data` et `computed` ?
+## Question 1
 
-## 2 - Qu'est-ce que `Vuex` ?
+Quelles sont les différences entre `props`, et `data` et `computed` ?
 
-## 3 - Que fait `v-model` ? Quelle est la différence avec `v-bind` ?
+## Question 2
 
-## 4 - A quoi sert `Vue.set()` (ou `this.$set()`) ?
+Qu'est-ce que `Vuex` ?
 
-## 5 - Quelles sont les changements de VueJS 3 annoncés en Novembre 2018 par Evan You ?
+## Question 3
+
+Que fait `v-model` ? Quelle est la différence avec `v-bind` ?
+
+## Question 4
+
+A quoi sert `Vue.set()` (ou `this.$set()`) ?
+
+## Question 5
+
+Quelles sont les changements de VueJS 3 annoncés en Novembre 2018 par Evan You ?
