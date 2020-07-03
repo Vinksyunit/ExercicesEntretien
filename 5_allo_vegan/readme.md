@@ -1,4 +1,4 @@
-# 5 - Application Allo Vegan (mobile)
+# 5 - Application Allo Repas (mobile)
 
 #### Temps estimé
 
