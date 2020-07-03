@@ -1,4 +1,4 @@
-# 5 - Application Allo Vegan (mobile hybride web)
+# 5 - Application Allo Vegan (mobile)
 
 #### Temps estimé
 
@@ -6,7 +6,7 @@ Entre 2 et 4 heures
 
 #### Enoncé
 
-Vous ferez **une application à destination des mobiles** dont l'objectif est de faire découvrir des restaurants vegans autour de chez vous. Cette application peut soit être réalisée avec *Ionic*, soit *Cordova*.
+Vous ferez **une application à destination des mobiles** dont l'objectif est de faire découvrir des restaurants vegans autour de chez vous. Cette application peut soit être réalisée avec *Ionic*, soit *Cordova*, soit *React Native*.
 
 Pas besoin d'héberger un serveur, pour trouver la liste des restaurants, il suffit d'invoquer cette URL en remplaçant les valeurs de `VOTRELATITUDE` et `VOTRELONGITUDE` :
 
@@ -22,7 +22,7 @@ Vous devrez développer en **Javascript (ES6) ou en Typescript**.
 
 Vous êtes complêtement libre visuellement d'utiliser ce que vous souhaitez (Bootstrap, Foundation ou autre). 
 
-Il est recommandé d'utiliser **Ionic** et/ou **Angular**. 
+Il est recommandé d'utiliser **React Native** ou **Ionic** et/ou **Angular**. 
 
 Pour le module de carte, vous pouvez utiliser ce que vous voulez.
 
@@ -30,6 +30,6 @@ Pour le module de carte, vous pouvez utiliser ce que vous voulez.
 
 Vous devrez fournir l'ensemble du code source sur GitHub.
 
-Les applications mobiles devront fournir un APK qui sera testé sur un *Android 8*.
+Les applications mobiles devront fournir un APK qui sera testé sur un *Android 10*.
 
-Eventuellement, votre application pourra également être testée en mode navigateur.
+Eventuellement, votre application pourra également être testée en mode navigateur (pour le cs Ionic).
